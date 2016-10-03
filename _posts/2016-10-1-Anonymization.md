@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dental Risk Predictor"
+title: "Aline"
 ---
 <center> <img src="http://anchordentalkaty.com/assets/uploads/2015/11/11305192_l.jpg" alt="alt text" width="800px"> </center>
 Automated anonymization of documents is one important research subject, especially in the medical area where [creteria](http://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/) are strictly guided. In general, it is a difficult task, and even more so for data outside of medical domain due to the lack of specialized tools. In this post, I explored the possibility of using the [vector embedding](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) [Mikolov 13] approach to anonymize non-medical documents. I arrived at some interesting results with hints from theoretical physics, which I would like share about.
